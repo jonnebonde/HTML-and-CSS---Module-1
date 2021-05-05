@@ -1,0 +1,35 @@
+header {
+    background-color: black;}
+
+nav li {
+    color: white;
+    }
+
+nav a {
+    color: white;
+    }
+a {
+    color:black;
+    text-decoration: none;
+    }
+.list {background-color: lightgray;}
+
+#redbutton {
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    }
+
+#salebutton {
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    }
+
+.reviews {background-color: grey;}
