@@ -42,11 +42,12 @@ a {
     color: white;
     padding: 0.05em 0.05em;
     text-align: center;
+    
 }
 
 .cta-sale {
     background-color:#127300;
-    border: none;
+    border: 1em;
     border-radius: 0.2em;
     color: white;
     padding: 0.05em 0.05em;
