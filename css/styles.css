@@ -6,6 +6,7 @@
 body {
     font-family: "roboto", Verdana, Geneva, Tahoma, sans-serif;
 }
+
 h1,
 h2,
 .logo {
@@ -33,12 +34,22 @@ header,
     background-position-x: right;
     background-position-y: bottom;
 }
+
 a {
     color:black;
     text-decoration: none;
 }
 
-.list {background-color: #FBFBFB;
+.list {
+    background-color: #FBFBFB;
+}
+
+.Our-guitars {
+    border-radius: 106px;
+}
+
+.profile-picture {
+    border-radius: 100%;
 }
 
 
