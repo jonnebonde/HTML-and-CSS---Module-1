@@ -11,14 +11,6 @@ h2,
 .logo {
     font-family: "Boots And Spurs", Verdana, Geneva, Tahoma, sans-serif;
 }
-
-
-header,
-.logo {
-    background-color: black;
-    color: white;
-}
-
 nav li {
     color: white;
 }
@@ -27,6 +19,20 @@ nav a {
     color: white;
 }
 
+header,
+.logo {
+    background-color: black;
+    color: white;
+}
+
+.welcome {
+    background-image: url("../images/home-header.jpg");
+    background-size: cover;
+    border-image-repeat: no-repeat;
+    min-height: 70vh; 
+    background-position-x: right;
+    background-position-y: bottom;
+}
 a {
     color:black;
     text-decoration: none;
@@ -35,6 +41,7 @@ a {
 .list {background-color: #FBFBFB;
 }
 
+.
 .cta {
     background-color:#BB0000;
     border: none;
