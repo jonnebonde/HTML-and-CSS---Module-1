@@ -81,11 +81,24 @@ a {
         text-align: center;
 }
 
-.reviews {background-color: #e8e8e8;
+.reviews {
+    background-color: #e8e8e8;
 }
 
 footer {
     background-color: black;
     text-align:center;
     color: white;
+}
+
+.Cta_send_now {
+    background-color:#BB0000;
+    color:#e8e8e8;
+    border: solid;
+    border-radius: 0.2em;
+    padding: 0.2em 0.2em;
+    text-align: center;
+    
+
+
 }
