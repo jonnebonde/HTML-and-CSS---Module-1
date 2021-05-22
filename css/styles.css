@@ -15,11 +15,6 @@ h2,
 nav li {
     color: white;
     display: inline-block;
-    
-}
-
-nav ul {
-    padding: 0px;
 }
 
 nav a {
@@ -64,20 +59,22 @@ a {
 
 .cta {
     background-color:#BB0000;
+    font-size: 1em;
     border: none;
-    border-radius: 0.2em;
+    border-radius: 5px;
     color: white;
-    padding: 0.05em 0.05em;
+    padding:10px 70px;
     text-align: center;
+    text-transform: uppercase;
     
 }
 
 .cta-sale {
     background-color:#127300;
-    border: 1em;
-    border-radius: 0.2em;
+    border: none;
+    border-radius: 5px;
     color: white;
-    padding: 0.05em 0.05em;
+    padding: 8px 50px;
     text-align: center;
 }
    
@@ -86,7 +83,7 @@ a {
         border: none;
         border-radius: 0.2em;
         color: white;
-        padding: 0.05em 0.05em;
+        padding: 8px 50px;
         text-align: center;
 }
 
@@ -102,9 +99,11 @@ footer {
 
 .Cta_send_now {
     background-color:#BB0000;
-    color:#e8e8e8;
-    border-radius: 0.2em;
-    padding: 0.2em 0.2em;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding:10px 80px;
     text-align: center;
-    font-weight: bold;
+    text-transform: uppercase;
 }
