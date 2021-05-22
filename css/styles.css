@@ -78,17 +78,19 @@ a {
     border: none;
     border-radius: 5px;
     color: white;
-    padding: 8px 50px;
+    padding: 8px 37px;
     text-align: center;
+    text-transform: uppercase;
 }
    
 .cta-view {
         background-color:#BB0000;
         border: none;
-        border-radius: 0.2em;
+        border-radius: 5px;
         color: white;
         padding: 8px 50px;
         text-align: center;
+        text-transform: uppercase;
 }
 
 .reviews {
