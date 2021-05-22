@@ -16,12 +16,17 @@ nav li {
     color: white;
     display: inline-block;
 }
-ul  {
-    
+ul {
+    padding:0px;
+    margin:5px
+    border:none;
 }
-
 nav a {
     color: white;
+}
+header, a {
+    padding:10px;
+ 
 }
 
 header,
